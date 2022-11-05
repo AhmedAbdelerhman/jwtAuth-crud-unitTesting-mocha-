@@ -1,0 +1,6 @@
+// chai functions
+//expect(savedUser).to.have.property("posts");
+//expect(savedUser.posts).to.have.length(1);
+//  expect(result).to.be.an("error")
+//expect(res.userStatus).to.be.equal("I am new!");
+// User.findOne.throws(); use to fail the function and test the 500 code
